@@ -1,0 +1,8 @@
+C:\Users\HP-PEDRO\Desktop\_UAI 2023\__2C ING Programación y Estructuras de Datos - Lun TM Mar TT Jue TN\Curso Git\ejemploPED\AppConsolaNETFramework\bin\Debug\AppConsolaNETFramework.exe.config
+C:\Users\HP-PEDRO\Desktop\_UAI 2023\__2C ING Programación y Estructuras de Datos - Lun TM Mar TT Jue TN\Curso Git\ejemploPED\AppConsolaNETFramework\bin\Debug\AppConsolaNETFramework.exe
+C:\Users\HP-PEDRO\Desktop\_UAI 2023\__2C ING Programación y Estructuras de Datos - Lun TM Mar TT Jue TN\Curso Git\ejemploPED\AppConsolaNETFramework\bin\Debug\AppConsolaNETFramework.pdb
+C:\Users\HP-PEDRO\Desktop\_UAI 2023\__2C ING Programación y Estructuras de Datos - Lun TM Mar TT Jue TN\Curso Git\ejemploPED\AppConsolaNETFramework\obj\Debug\AppConsolaNETFramework.csproj.AssemblyReference.cache
+C:\Users\HP-PEDRO\Desktop\_UAI 2023\__2C ING Programación y Estructuras de Datos - Lun TM Mar TT Jue TN\Curso Git\ejemploPED\AppConsolaNETFramework\obj\Debug\AppConsolaNETFramework.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP-PEDRO\Desktop\_UAI 2023\__2C ING Programación y Estructuras de Datos - Lun TM Mar TT Jue TN\Curso Git\ejemploPED\AppConsolaNETFramework\obj\Debug\AppConsolaNETFramework.csproj.CoreCompileInputs.cache
+C:\Users\HP-PEDRO\Desktop\_UAI 2023\__2C ING Programación y Estructuras de Datos - Lun TM Mar TT Jue TN\Curso Git\ejemploPED\AppConsolaNETFramework\obj\Debug\AppConsolaNETFramework.exe
+C:\Users\HP-PEDRO\Desktop\_UAI 2023\__2C ING Programación y Estructuras de Datos - Lun TM Mar TT Jue TN\Curso Git\ejemploPED\AppConsolaNETFramework\obj\Debug\AppConsolaNETFramework.pdb
